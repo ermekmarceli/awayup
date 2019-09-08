@@ -1,1 +1,2 @@
 # awayup
+będę programistą 
